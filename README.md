@@ -1,1 +1,3 @@
 # python-api-challenge
+
+This challenge involved using API Keys to access data stored on specific sites and create a weather and vacation report on our topic of choice. Because there are some risks with using APIs, we were instructed to create a .ignore file as well. The hardest part of this challenge was to make the api key work correctly but after that it was pretty smooth sailing. Assistance used in this project was help from one of the UCF tutors, youtube instructional videos on API usage, and help from classmates.
